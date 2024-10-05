@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "/img1.jpeg",
+        "title": "html & css",
+        "description": "djsvaj jas asd asdj jwywrb j ajjdv asdjh jasjv jasjvdja.",
+        "price": 1100,
+        "time": 11
+    },
+    {
+        "id": 2,
+        "img": "/img2.jpeg",
+        "title": "javascript",
+        "description": "djsvaj jas asd asdj jwywrb j ajjdv asdjh jasjv jasjvdja.",
+        "price": 1200,
+        "time": 19
+    },
+    {
+        "id": 3,
+        "img": "/img3.jpeg",
+        "title": "C++",
+        "description": "djsvaj jas asd asdj jwywrb j ajjdv asdjh jasjv jasjvdja.",
+        "price": 1200,
+        "time": 19
+    },
+    {
+        "id": 4,
+        "img": "/img4.jpeg",
+        "title": "Python",
+        "description": "djsvaj jas asd asdj jwywrb j ajjdv asdjh jasjv jasjvdja.",
+        "price": 1200,
+        "time": 19
+    },
+    {
+        "id": 5,
+        "img": "/img5.jpeg",
+        "title": "C#",
+        "description": "djsvaj jas asd asdj jwywrb j ajjdv asdjh jasjv jasjvdja.",
+        "price": 1200,
+        "time": 19
+    },
+    {
+        "id": 6,
+        "img": "/img6.jpeg",
+        "title": "bootstrap",
+        "description": "djsvaj jas asd asdj jwywrb j ajjdv asdjh jasjv jasjvdja.",
+        "price": 1200,
+        "time": 19
+    }
+]
